@@ -1,0 +1,14 @@
+{
+    "searchEngineList":[
+        {"duckduckgo" : "#duck" , "url" : "https://duckduckgo.com/?t=ffab&q="},
+        {"bing" : "#bing" , "url" : "https://www.bing.com/search?q="},
+        {"google": "#goo" , "url" : "https://www.google.com/search?q="},
+        {"baidu" : "#bai" , "url" : "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd="},
+        {"zhihu" : "zhi" , "url" : "https://www.zhihu.com/search?type=content&q="},
+        {"bilibili" : "#b8" , "url" : "https://search.bilibili.com/all?keyword="},
+        {"youtube" : "#yout" , "url" : "https://www.youtube.com/results?search_query="},
+        {"wikipedia" : "#wiki" , "url" : "https://www.youtube.com/results?search_query="},
+        {"reddit" : "#red" , "url" : "https://www.reddit.com/search/?q="},
+        {"archwiki" : "#arch" , "url" : "https://wiki.archlinux.org/index.php?search="}
+    ]
+}
